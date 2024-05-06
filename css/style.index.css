@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Press+Start+2P&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Russo+One&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
 
+body{
+    background-color: rgb(13, 1, 26);
+}
+
 .titulo {
     background-image: url(../img/banner.png );
     height: 50vh;
@@ -19,9 +23,9 @@
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-  }
+ }
 
-  footer {
+footer {
     width: 100%;
     background-color: rgb(78, 33, 255);
     text-align: center;
@@ -36,14 +40,10 @@
     float: left;
 }
 
-
-/*@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Press+Start+2P&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Russo+One&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
-
 @media only screen and (max-width: 800px) {
     .imagenes {
-        width: 32%;
-        border: 1px solid orange;
-    }
+        width: 50%;
+   }
     .titulo {
         font-size: 8vw; 
         font-size: 150%;
@@ -52,9 +52,4 @@
     footer {
         padding: 0.5%;
     }
-    .titulo {
-         height: 50vh;
-         } 
-    }
 
-  
