@@ -38,6 +38,42 @@ body{
     text-shadow: 8px 8px 20px #5b5b5b;
 }
 
+.tituloGTA {
+    background-image: url(../img/BannerGTA5.png);
+    height: 30vh;
+    color: white;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-shadow: 8px 8px 20px #5b5b5b;
+}
+
+.tituloRIDE {
+    background-image: url(../img/banner\ ride4.png);
+    height: 30vh;
+    color: white;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-shadow: 8px 8px 20px #5b5b5b;
+}
+
+.tituloNBA {
+    background-image: url(../img/banner\ NBA.png);
+    height: 30vh;
+    color: white;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-shadow: 8px 8px 20px #5b5b5b;
+}
+
 
 .letrafont {
     font-family: "Outfit", sans-serif;
